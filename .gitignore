@@ -1,7 +1,7 @@
 # Carpetas compiladas
 build/
 dist/
-
+target/
 # Archivos temporales
 *.class
 
